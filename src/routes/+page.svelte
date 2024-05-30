@@ -47,6 +47,14 @@
         href="https://fonts.googleapis.com/css2?family=Jacquard+12&family=Pixelify+Sans:wght@400..700&display=swap"
         rel="stylesheet"
     />
+    <meta property="og:title" content="Blockcoin" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://blockcoin.social" />
+    <meta property="og:image" content="https://blockcoin.social/assets/logo.png" />
+    <meta property="og:description" content="Blockcoin is a new social media built around a fictionnal currency that you can earn by posting!" />
+    <meta name="theme-color" content="#BB01FF" />
+    <meta name="description" content="Blockcoin is a new social media built around a fictionnal currency that you can earn by posting!" />
+    <title>Blockcoin</title>
 </svelte:head>
 
 <div id="blur" />
